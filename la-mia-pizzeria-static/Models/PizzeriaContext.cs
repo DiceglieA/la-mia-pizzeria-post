@@ -26,7 +26,7 @@ namespace la_mia_pizzeria_static.Models
                     new Pizza
                     {
                         Name = "Margherita",
-                        Description = "pomodoroe mozzarella",
+                        Description = "pomodoro e mozzarella",
                         Foto = "/img/pizza02.jpg",
                         Price = 5,
                     },
